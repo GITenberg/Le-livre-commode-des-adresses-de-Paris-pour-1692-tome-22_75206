@@ -1,0 +1,55 @@
+_repo: Le-livre-commode-des-adresses-de-Paris-pour-1692-tome-22_75206
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Fournier, Edouard
+    alias: Fournier, Édouard
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '36482'
+    url: http://www.gutenberg.org/2009/agents/36482
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/%C3%89douard_Fournier
+    - https://en.wikipedia.org/wiki/%C3%89douard_Fournier
+creator:
+  author:
+    agent_name: Blégny, Monsieur de (Nicolas)
+    aliases:
+    - Astrologue lyonnois
+    - Blegny, Nicolas de
+    - Blégny, Nicolas de
+    - De Blégny, Monsieur (Nicolas)
+    - Du Pradel, Abraham
+    - Lambert, Fr.
+    - Pradel, Abraham du
+    birthdate: 1652
+    deathdate: 1722
+    gutenberg_agent_id: '57880'
+    url: http://www.gutenberg.org/2009/agents/57880
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Nicolas_de_Bl%C3%A9gny
+    - https://fr.wikipedia.org/wiki/Nicolas_de_Bl%C3%A9gny
+description: ''
+gutenberg_issued: '2025-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75206'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k278248
+pgterms:marc905: 20090522112737blegny
+pgterms:marc906: '1878'
+pgterms:marc907: FR
+production_note: Mireille Harmelin, Guy de Montpellier and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPaul Daffis, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Directories'
+- !lcsh 'Paris (France) -- Statistics'
+- !lcc 'DC'
+- GITenberg
+title: Le livre commode des adresses de Paris pour 1692, tome 2/2
+url: http://www.gutenberg.org/ebooks/75206
